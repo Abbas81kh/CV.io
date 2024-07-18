@@ -1,0 +1,37 @@
+#Skills{
+    text-decoration: underline;
+    font-size: 23px  ;
+    color: rgb(65, 65, 144);
+    
+}
+
+#Achievement{
+    text-decoration: underline;
+    font-size: 22px;
+    color: rgb(65, 65, 144);
+}
+
+#Lang{
+    text-decoration:underline;
+    font-size: 22px;
+    color: rgb(65, 65, 144);
+}
+
+#intrest{
+    text-decoration: underline;
+    font-size: 22px;
+    color: rgb(65, 65, 144);
+}
+
+#Act{
+    text-decoration: underline;
+    font-size: 22px;
+    color: rgb(65, 65, 144);
+}
+
+#home_page{
+    
+    font-size: 15px;
+    color: rgb(90, 32, 144);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

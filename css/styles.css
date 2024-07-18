@@ -1,0 +1,65 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+h1 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: rgb(65, 65, 144);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+#Personal_Details {
+    text-decoration: underline;
+    font-size: larger;
+    color: rgb(65, 65, 144);
+    
+
+}
+
+#Objective {
+    text-decoration: underline;
+    font-size: larger;
+    text-align: center;
+    color: rgb(65, 65, 144);
+
+}
+
+#Experience {
+    text-decoration: underline;
+    font-size: larger;
+    color: rgb(65, 65, 144);
+}
+
+table {
+
+    color: blue;
+    text-align: center;
+
+}
+
+#Education {
+    text-decoration: underline;
+    font-size: larger;
+    color: rgb(65, 65, 144);
+}
+
+#next_page {
+    font-size: 16px;
+    color: rgb(90, 32, 144);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+
+
